@@ -1,0 +1,547 @@
+Country 	none
+City 	Altstadt
+Location 	Longitude	11.5752
+	Latitude 	48.137
+COD 	200
+Message 	0.0032
+CNT 	36
+List 	dt 	1.48725e+09
+	Main Details 	Temperature	286.67
+		Min Temperature	281.556
+		Max Temperature	286.67
+		Humidity 	75
+		Pressure 	972.73
+		Temp_kf 	5.11
+		Sea Level	1046.46
+		Ground Level	972.73
+	Weather 	Weather Summary	Clear
+		Detailed description	clear sky
+	Cloudiness	0
+	Wind	Wind Speed	1.81
+		Wind Direction	247.501
+	Data/time 	2017-02-16 12:00:00
+	dt 	1.48726e+09
+	Main Details 	Temperature	285.66
+		Min Temperature	281.821
+		Max Temperature	285.66
+		Humidity 	70
+		Pressure 	970.91
+		Temp_kf 	3.84
+		Sea Level	1044.32
+		Ground Level	970.91
+	Weather 	Weather Summary	Clear
+		Detailed description	clear sky
+	Cloudiness	0
+	Wind	Wind Speed	1.59
+		Wind Direction	290.501
+	Data/time 	2017-02-16 15:00:00
+	dt 	1.48727e+09
+	Main Details 	Temperature	277.05
+		Min Temperature	274.498
+		Max Temperature	277.05
+		Humidity 	90
+		Pressure 	970.44
+		Temp_kf 	2.56
+		Sea Level	1044.7
+		Ground Level	970.44
+	Weather 	Weather Summary	Clear
+		Detailed description	clear sky
+	Cloudiness	0
+	Wind	Wind Speed	1.41
+		Wind Direction	263.5
+	Data/time 	2017-02-16 18:00:00
+	dt 	1.48728e+09
+	Main Details 	Temperature	272.78
+		Min Temperature	271.503
+		Max Temperature	272.78
+		Humidity 	80
+		Pressure 	969.32
+		Temp_kf 	1.28
+		Sea Level	1044.14
+		Ground Level	969.32
+	Weather 	Weather Summary	Clear
+		Detailed description	clear sky
+	Cloudiness	0
+	Wind	Wind Speed	2.24
+		Wind Direction	205.502
+	Data/time 	2017-02-16 21:00:00
+	dt 	1.48729e+09
+	Main Details 	Temperature	273.341
+		Min Temperature	273.341
+		Max Temperature	273.341
+		Humidity 	85
+		Pressure 	968.14
+		Temp_kf 	0
+		Sea Level	1042.96
+		Ground Level	968.14
+	Weather 	Weather Summary	Clouds
+		Detailed description	broken clouds
+	Cloudiness	76
+	Wind	Wind Speed	3.59
+		Wind Direction	224.003
+	Data/time 	2017-02-17 00:00:00
+	dt 	1.4873e+09
+	Main Details 	Temperature	275.568
+		Min Temperature	275.568
+		Max Temperature	275.568
+		Humidity 	89
+		Pressure 	966.6
+		Temp_kf 	0
+		Sea Level	1041.39
+		Ground Level	966.6
+	Weather 	Weather Summary	Rain
+		Detailed description	light rain
+	Cloudiness	76
+	Wind	Wind Speed	3.77
+		Wind Direction	237.002
+	Data/time 	2017-02-17 03:00:00
+	dt 	1.48731e+09
+	Main Details 	Temperature	276.478
+		Min Temperature	276.478
+		Max Temperature	276.478
+		Humidity 	97
+		Pressure 	966.45
+		Temp_kf 	0
+		Sea Level	1041.21
+		Ground Level	966.45
+	Weather 	Weather Summary	Rain
+		Detailed description	moderate rain
+	Cloudiness	92
+	Wind	Wind Speed	3.81
+		Wind Direction	268.005
+	Data/time 	2017-02-17 06:00:00
+	dt 	1.48732e+09
+	Main Details 	Temperature	276.67
+		Min Temperature	276.67
+		Max Temperature	276.67
+		Humidity 	100
+		Pressure 	967.41
+		Temp_kf 	0
+		Sea Level	1041.95
+		Ground Level	967.41
+	Weather 	Weather Summary	Rain
+		Detailed description	light rain
+	Cloudiness	64
+	Wind	Wind Speed	2.6
+		Wind Direction	266.504
+	Data/time 	2017-02-17 09:00:00
+	dt 	1.48733e+09
+	Main Details 	Temperature	278.253
+		Min Temperature	278.253
+		Max Temperature	278.253
+		Humidity 	95
+		Pressure 	966.98
+		Temp_kf 	0
+		Sea Level	1040.89
+		Ground Level	966.98
+	Weather 	Weather Summary	Rain
+		Detailed description	light rain
+	Cloudiness	92
+	Wind	Wind Speed	3.17
+		Wind Direction	261.501
+	Data/time 	2017-02-17 12:00:00
+	dt 	1.48734e+09
+	Main Details 	Temperature	276.455
+		Min Temperature	276.455
+		Max Temperature	276.455
+		Humidity 	99
+		Pressure 	966.38
+		Temp_kf 	0
+		Sea Level	1040.17
+		Ground Level	966.38
+	Weather 	Weather Summary	Rain
+		Detailed description	light rain
+	Cloudiness	92
+	Wind	Wind Speed	3.21
+		Wind Direction	268.001
+	Data/time 	2017-02-17 15:00:00
+	dt 	1.48735e+09
+	Main Details 	Temperature	275.639
+		Min Temperature	275.639
+		Max Temperature	275.639
+		Humidity 	95
+		Pressure 	966.39
+		Temp_kf 	0
+		Sea Level	1040.65
+		Ground Level	966.39
+	Weather 	Weather Summary	Rain
+		Detailed description	light rain
+	Cloudiness	88
+	Wind	Wind Speed	3.17
+		Wind Direction	258.001
+	Data/time 	2017-02-17 18:00:00
+	dt 	1.48737e+09
+	Main Details 	Temperature	275.459
+		Min Temperature	275.459
+		Max Temperature	275.459
+		Humidity 	96
+		Pressure 	966.3
+		Temp_kf 	0
+		Sea Level	1040.8
+		Ground Level	966.3
+	Weather 	Weather Summary	Rain
+		Detailed description	light rain
+	Cloudiness	88
+	Wind	Wind Speed	3.71
+		Wind Direction	265.503
+	Data/time 	2017-02-17 21:00:00
+	dt 	1.48738e+09
+	Main Details 	Temperature	275.035
+		Min Temperature	275.035
+		Max Temperature	275.035
+		Humidity 	99
+		Pressure 	966.43
+		Temp_kf 	0
+		Sea Level	1041.02
+		Ground Level	966.43
+	Weather 	Weather Summary	Rain
+		Detailed description	light rain
+	Cloudiness	92
+	Wind	Wind Speed	3.56
+		Wind Direction	273.5
+	Data/time 	2017-02-18 00:00:00
+	dt 	1.48739e+09
+	Main Details 	Temperature	274.965
+		Min Temperature	274.965
+		Max Temperature	274.965
+		Humidity 	97
+		Pressure 	966.36
+		Temp_kf 	0
+		Sea Level	1041.17
+		Ground Level	966.36
+	Weather 	Weather Summary	Rain
+		Detailed description	light rain
+	Cloudiness	88
+	Wind	Wind Speed	2.66
+		Wind Direction	285.502
+	Data/time 	2017-02-18 03:00:00
+	dt 	1.4874e+09
+	Main Details 	Temperature	274.562
+		Min Temperature	274.562
+		Max Temperature	274.562
+		Humidity 	98
+		Pressure 	966.75
+		Temp_kf 	0
+		Sea Level	1041.57
+		Ground Level	966.75
+	Weather 	Weather Summary	Rain
+		Detailed description	light rain
+	Cloudiness	88
+	Wind	Wind Speed	1.46
+		Wind Direction	276.5
+	Data/time 	2017-02-18 06:00:00
+	dt 	1.48741e+09
+	Main Details 	Temperature	275.648
+		Min Temperature	275.648
+		Max Temperature	275.648
+		Humidity 	99
+		Pressure 	967.21
+		Temp_kf 	0
+		Sea Level	1041.74
+		Ground Level	967.21
+	Weather 	Weather Summary	Rain
+		Detailed description	light rain
+	Cloudiness	56
+	Wind	Wind Speed	1.5
+		Wind Direction	251.008
+	Data/time 	2017-02-18 09:00:00
+	dt 	1.48742e+09
+	Main Details 	Temperature	277.927
+		Min Temperature	277.927
+		Max Temperature	277.927
+		Humidity 	95
+		Pressure 	966.06
+		Temp_kf 	0
+		Sea Level	1039.98
+		Ground Level	966.06
+	Weather 	Weather Summary	Clear
+		Detailed description	clear sky
+	Cloudiness	8
+	Wind	Wind Speed	0.86
+		Wind Direction	244.004
+	Data/time 	2017-02-18 12:00:00
+	dt 	1.48743e+09
+	Main Details 	Temperature	278.367
+		Min Temperature	278.367
+		Max Temperature	278.367
+		Humidity 	89
+		Pressure 	964.57
+		Temp_kf 	0
+		Sea Level	1038.35
+		Ground Level	964.57
+	Weather 	Weather Summary	Clear
+		Detailed description	clear sky
+	Cloudiness	8
+	Wind	Wind Speed	1.62
+		Wind Direction	79.5024
+	Data/time 	2017-02-18 15:00:00
+	dt 	1.48744e+09
+	Main Details 	Temperature	273.797
+		Min Temperature	273.797
+		Max Temperature	273.797
+		Humidity 	91
+		Pressure 	964.13
+		Temp_kf 	0
+		Sea Level	1038.48
+		Ground Level	964.13
+	Weather 	Weather Summary	Clear
+		Detailed description	clear sky
+	Cloudiness	0
+	Wind	Wind Speed	2.42
+		Wind Direction	77.0026
+	Data/time 	2017-02-18 18:00:00
+	dt 	1.48745e+09
+	Main Details 	Temperature	271.239
+		Min Temperature	271.239
+		Max Temperature	271.239
+		Humidity 	93
+		Pressure 	963.39
+		Temp_kf 	0
+		Sea Level	1038.21
+		Ground Level	963.39
+	Weather 	Weather Summary	Clear
+		Detailed description	clear sky
+	Cloudiness	0
+	Wind	Wind Speed	2.42
+		Wind Direction	95.5017
+	Data/time 	2017-02-18 21:00:00
+	dt 	1.48746e+09
+	Main Details 	Temperature	269.553
+		Min Temperature	269.553
+		Max Temperature	269.553
+		Humidity 	92
+		Pressure 	962.39
+		Temp_kf 	0
+		Sea Level	1037.44
+		Ground Level	962.39
+	Weather 	Weather Summary	Clear
+		Detailed description	clear sky
+	Cloudiness	0
+	Wind	Wind Speed	1.96
+		Wind Direction	101.004
+	Data/time 	2017-02-19 00:00:00
+	dt 	1.48747e+09
+	Main Details 	Temperature	268.198
+		Min Temperature	268.198
+		Max Temperature	268.198
+		Humidity 	84
+		Pressure 	961.28
+		Temp_kf 	0
+		Sea Level	1036.51
+		Ground Level	961.28
+	Weather 	Weather Summary	Clear
+		Detailed description	clear sky
+	Cloudiness	0
+	Wind	Wind Speed	1.06
+		Wind Direction	121.5
+	Data/time 	2017-02-19 03:00:00
+	dt 	1.48748e+09
+	Main Details 	Temperature	267.295
+		Min Temperature	267.295
+		Max Temperature	267.295
+		Humidity 	86
+		Pressure 	961.16
+		Temp_kf 	0
+		Sea Level	1036.45
+		Ground Level	961.16
+	Weather 	Weather Summary	Clear
+		Detailed description	clear sky
+	Cloudiness	0
+	Wind	Wind Speed	1.17
+		Wind Direction	155.005
+	Data/time 	2017-02-19 06:00:00
+	dt 	1.48749e+09
+	Main Details 	Temperature	272.956
+		Min Temperature	272.956
+		Max Temperature	272.956
+		Humidity 	84
+		Pressure 	962.03
+		Temp_kf 	0
+		Sea Level	1036.85
+		Ground Level	962.03
+	Weather 	Weather Summary	Clear
+		Detailed description	clear sky
+	Cloudiness	0
+	Wind	Wind Speed	1.66
+		Wind Direction	195.002
+	Data/time 	2017-02-19 09:00:00
+	dt 	1.48751e+09
+	Main Details 	Temperature	277.422
+		Min Temperature	277.422
+		Max Temperature	277.422
+		Humidity 	89
+		Pressure 	962.23
+		Temp_kf 	0
+		Sea Level	1036.06
+		Ground Level	962.23
+	Weather 	Weather Summary	Clear
+		Detailed description	clear sky
+	Cloudiness	0
+	Wind	Wind Speed	1.32
+		Wind Direction	357.003
+	Data/time 	2017-02-19 12:00:00
+	dt 	1.48752e+09
+	Main Details 	Temperature	277.984
+		Min Temperature	277.984
+		Max Temperature	277.984
+		Humidity 	87
+		Pressure 	962.15
+		Temp_kf 	0
+		Sea Level	1035.86
+		Ground Level	962.15
+	Weather 	Weather Summary	Clear
+		Detailed description	clear sky
+	Cloudiness	0
+	Wind	Wind Speed	1.58
+		Wind Direction	48.5031
+	Data/time 	2017-02-19 15:00:00
+	dt 	1.48753e+09
+	Main Details 	Temperature	272.459
+		Min Temperature	272.459
+		Max Temperature	272.459
+		Humidity 	90
+		Pressure 	963.31
+		Temp_kf 	0
+		Sea Level	1037.81
+		Ground Level	963.31
+	Weather 	Weather Summary	Clear
+		Detailed description	clear sky
+	Cloudiness	0
+	Wind	Wind Speed	1.16
+		Wind Direction	75.5042
+	Data/time 	2017-02-19 18:00:00
+	dt 	1.48754e+09
+	Main Details 	Temperature	269.473
+		Min Temperature	269.473
+		Max Temperature	269.473
+		Humidity 	83
+		Pressure 	964.65
+		Temp_kf 	0
+		Sea Level	1039.76
+		Ground Level	964.65
+	Weather 	Weather Summary	Clear
+		Detailed description	clear sky
+	Cloudiness	0
+	Wind	Wind Speed	1.12
+		Wind Direction	174.002
+	Data/time 	2017-02-19 21:00:00
+	dt 	1.48755e+09
+	Main Details 	Temperature	268.793
+		Min Temperature	268.793
+		Max Temperature	268.793
+		Humidity 	80
+		Pressure 	965.92
+		Temp_kf 	0
+		Sea Level	1041.32
+		Ground Level	965.92
+	Weather 	Weather Summary	Clear
+		Detailed description	clear sky
+	Cloudiness	0
+	Wind	Wind Speed	2.11
+		Wind Direction	207.502
+	Data/time 	2017-02-20 00:00:00
+	dt 	1.48756e+09
+	Main Details 	Temperature	268.106
+		Min Temperature	268.106
+		Max Temperature	268.106
+		Humidity 	85
+		Pressure 	966.4
+		Temp_kf 	0
+		Sea Level	1042.18
+		Ground Level	966.4
+	Weather 	Weather Summary	Clear
+		Detailed description	clear sky
+	Cloudiness	0
+	Wind	Wind Speed	1.67
+		Wind Direction	191.001
+	Data/time 	2017-02-20 03:00:00
+	dt 	1.48757e+09
+	Main Details 	Temperature	267.655
+		Min Temperature	267.655
+		Max Temperature	267.655
+		Humidity 	84
+		Pressure 	967.4
+		Temp_kf 	0
+		Sea Level	1043.43
+		Ground Level	967.4
+	Weather 	Weather Summary	Clear
+		Detailed description	clear sky
+	Cloudiness	0
+	Wind	Wind Speed	1.61
+		Wind Direction	194.001
+	Data/time 	2017-02-20 06:00:00
+	dt 	1.48758e+09
+	Main Details 	Temperature	273.75
+		Min Temperature	273.75
+		Max Temperature	273.75
+		Humidity 	83
+		Pressure 	968.84
+		Temp_kf 	0
+		Sea Level	1044.23
+		Ground Level	968.84
+	Weather 	Weather Summary	Clear
+		Detailed description	clear sky
+	Cloudiness	0
+	Wind	Wind Speed	2.49
+		Wind Direction	208.5
+	Data/time 	2017-02-20 09:00:00
+	dt 	1.48759e+09
+	Main Details 	Temperature	279.302
+		Min Temperature	279.302
+		Max Temperature	279.302
+		Humidity 	83
+		Pressure 	968.37
+		Temp_kf 	0
+		Sea Level	1042.52
+		Ground Level	968.37
+	Weather 	Weather Summary	Clear
+		Detailed description	clear sky
+	Cloudiness	0
+	Wind	Wind Speed	2.46
+		Wind Direction	252.001
+	Data/time 	2017-02-20 12:00:00
+	dt 	1.4876e+09
+	Main Details 	Temperature	279.343
+		Min Temperature	279.343
+		Max Temperature	279.343
+		Humidity 	81
+		Pressure 	967.9
+		Temp_kf 	0
+		Sea Level	1041.64
+		Ground Level	967.9
+	Weather 	Weather Summary	Clear
+		Detailed description	clear sky
+	Cloudiness	0
+	Wind	Wind Speed	3.21
+		Wind Direction	268.001
+	Data/time 	2017-02-20 15:00:00
+	dt 	1.48761e+09
+	Main Details 	Temperature	274.443
+		Min Temperature	274.443
+		Max Temperature	274.443
+		Humidity 	88
+		Pressure 	968.19
+		Temp_kf 	0
+		Sea Level	1042.66
+		Ground Level	968.19
+	Weather 	Weather Summary	Clouds
+		Detailed description	few clouds
+	Cloudiness	24
+	Wind	Wind Speed	3.27
+		Wind Direction	257.501
+	Data/time 	2017-02-20 18:00:00
+	dt 	1.48762e+09
+	Main Details 	Temperature	272.424
+		Min Temperature	272.424
+		Max Temperature	272.424
+		Humidity 	85
+		Pressure 	968.38
+		Temp_kf 	0
+		Sea Level	1043.17
+		Ground Level	968.38
+	Weather 	Weather Summary	Clouds
+		Detailed description	few clouds
+	Cloudiness	20
+	Wind	Wind Speed	3.57
+		Wind Direction	255.503
+	Data/time 	2017-02-20 21:00:00
