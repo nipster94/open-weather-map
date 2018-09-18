@@ -1,3 +1,12 @@
+/*!
+* @file owmgui.cpp
+* @brief This is the source file of the OWMGUI class.
+*
+* @author Nipun C. Gammanage (mailtonipun94@gmail.com)
+*
+* @date Initial release - Sept/2018
+*/
+
 #include "includes/owmgui.h"
 #include "ui_owmgui.h"
 

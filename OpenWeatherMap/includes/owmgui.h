@@ -164,19 +164,26 @@ class OWMGUI : public QMainWindow
         void getDetails(QString details);
 
     private:
-        OWMAPI *owmAPI;
-        Ui::OWMGUI *ui;
-        OWMSearchOption optionSD = SO_IDEAL;
-        ApiOption optionAD = AO_IDEAL;
+        OWMAPI *owmAPI;                         /**< Initialize QpenWeatherMap API handler class */
+        Ui::OWMGUI *ui;                         /**< Initialize UI */
 
-        QString desString;
-        QString cityName = NULL;
-        QString cityID = NULL;
-        QString lon = NULL;
-        QString lat = NULL;
-        QString zipCode = NULL;
-        QString countryCode = NULL;
+        OWMSearchOption optionSD = SO_IDEAL;    /**< Store the Search Option value*/
+        ApiOption optionAD = AO_IDEAL;          /**< Store the API Option value*/
 
+        QString desString;                      /**< Message to be displayed in the main text box*/
+        QString cityName = NULL;                /**< City name (from UI)*/
+        QString cityID = NULL;                  /**< City ID (from UI)*/
+        QString lon = NULL;                     /**< Longitude (from UI)*/
+        QString lat = NULL;                     /**< Latitude (from UI)*/
+        QString zipCode = NULL;                 /**< Zip code (from UI)*/
+        QString countryCode = NULL;             /**< Country code (from UI)*/
+
+        /**
+          * \brief This function will display Error Error messages
+          *
+          * In this function it will display a message in a msg box,
+          * using the class QMessageBox
+          */
         void showErrorMsg(QString errorMsg);
 };
 

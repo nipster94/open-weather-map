@@ -1,3 +1,11 @@
+/*!
+* @file owmapi.cpp
+* @brief This is the source file of the OWMAPI class.
+*
+* @author Nipun C. Gammanage (mailtonipun94@gmail.com)
+*
+* @date Initial release - Sept/2018
+*/
 #include "includes/owmapi.h"
 
 OWMAPI::OWMAPI(QThread *parent)
